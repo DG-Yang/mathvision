@@ -1,0 +1,10 @@
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.csprojResolveAssemblyReference.cache
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.FormMain.resources
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.Properties.Resources.resources
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.csproj.GenerateResource.cache
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.csproj.CoreCompileInputs.cache
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\bin\Debug\HW4_Vector.exe.config
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\bin\Debug\HW4_Vector.exe
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\bin\Debug\HW4_Vector.pdb
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.exe
+C:\Users\YDG\Desktop\UST_Class\MTCV\HW4_VectorProgramming\HW4_Vector\HW4_Vector\obj\Debug\HW4_Vector.pdb
