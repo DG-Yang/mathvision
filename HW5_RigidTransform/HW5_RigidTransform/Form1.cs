@@ -118,7 +118,7 @@ namespace HW5_RigidTransform
             ptsDst = MatCross(R2, MatCross(R1, ptsSrc[0].Mat - pts[0].Mat)) + ptsTrans[0].Mat;
 
             AddHistory(MatToString(R1, "R1"));
-            AddHistory(MatToString(R1, "R2"));
+            AddHistory(MatToString(R2, "R2"));
             AddHistory(MatToString(vt, "T"));
             AddHistory(MatToString(R1, R2, vt));
 
@@ -152,7 +152,7 @@ namespace HW5_RigidTransform
         {
             Mat temp = vec1.Cross(vec2);
             Mat res = temp / Math.Sqrt(Math.Abs(temp.Dot(temp)));
-            return res;
+            return res.Clone();
         }
 
         private void FindRotationVector(Mat src, Mat dst, out Mat RotAxis, out double cost)
@@ -160,7 +160,9 @@ namespace HW5_RigidTransform
             Mat temp = src.Cross(dst);
 
             RotAxis = temp / Math.Sqrt(temp.Dot(temp));
-            cost = src.Dot(dst) / Math.Sqrt(src.Dot(src) + dst.Dot(dst));
+            //cost = src.Dot(dst) / Math.Sqrt(src.Dot(src) + dst.Dot(dst));
+            cost = src.Dot(dst) / (Math.Sqrt(src.Dot(src)) * Math.Sqrt(dst.Dot(dst)));
+
         }
 
         private unsafe Mat RotationWithUnitVector(Mat vn, double cost)
