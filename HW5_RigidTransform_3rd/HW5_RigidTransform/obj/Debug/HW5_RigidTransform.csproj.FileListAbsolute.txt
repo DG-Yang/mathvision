@@ -1,0 +1,10 @@
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\bin\Debug\HW5_RigidTransform.exe.config
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\bin\Debug\HW5_RigidTransform.exe
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\bin\Debug\HW5_RigidTransform.pdb
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.csprojResolveAssemblyReference.cache
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.Form1.resources
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.Properties.Resources.resources
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.csproj.GenerateResource.cache
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.csproj.CoreCompileInputs.cache
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.exe
+C:\Users\YDG\Documents\Visual Studio 2017\Projects\HW5_RigidTransform\HW5_RigidTransform\obj\Debug\HW5_RigidTransform.pdb
