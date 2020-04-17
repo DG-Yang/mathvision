@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW6_LeastSquares", "HW6_LeastSquares\HW6_LeastSquares.csproj", "{A77D7112-1F6D-4619-BB46-6C84C490EF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Debug|x64.ActiveCfg = Debug|x64
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Debug|x64.Build.0 = Debug|x64
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Release|x64.ActiveCfg = Release|x64
+		{A77D7112-1F6D-4619-BB46-6C84C490EF04}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9B8B37-7B3E-4F58-ABF1-A08E1563101B}
+	EndGlobalSection
+EndGlobal
